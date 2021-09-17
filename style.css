@@ -23,7 +23,7 @@ h3{
     text-align: center;
     font-size: 30px;
     text-transform: uppercase;
-    color: #a497f8;
+    color: #dc2f02;
 }
 
 .navbar {
@@ -31,7 +31,7 @@ h3{
     justify-content: space-between;
     align-items: center;
     padding: 1.5rem 5rem;
-    background-color: #333;
+    background-color: #03071e;
 }
 
 /* hamburger menu */
@@ -46,7 +46,7 @@ h3{
     margin: 5px auto;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
-    background-color: #101010;
+    /* background-color: #101010; */
 }
 
 /* navbar menu */
@@ -67,13 +67,13 @@ h3{
 }
 
 .nav-link:hover{
-    color: #482ff7;
+    color: #dc2f02;
 }
 
 .nav-logo {
     font-size: 2.1rem;
     font-weight: 500;
-    color: #482ff7;
+    color: #dc2f02;
 }
 
 /* Hero Section */
@@ -98,13 +98,13 @@ h3{
     border-radius: 50px;
     font-size: 20px;
     font-weight: 700;
-    color: #482ff7;
+    color: #dc2f02;
     border: none;
     cursor: pointer;
 }
 
 .hero-btn:hover{
-    background-color: #482ff7;
+    background-color: #dc2f02;
     color: #fff;
 }
 
@@ -112,7 +112,7 @@ h3{
 .country{
     padding: 30px 0;
     letter-spacing: 10px;
-    color: #a497f8;
+    /* color: #a497f8; */
 }
 
 .countries img{
@@ -237,7 +237,7 @@ h3{
 }
 
 .livescore{
-    background-color: #482ff7;
+    background-color: #dc2f02;
     padding: 20px;
     margin-bottom: 30px;
     border: none;
@@ -248,7 +248,7 @@ h3{
 
 .livescore:hover{
     background-color: #f1f1f1;
-    color: #482ff7;
+    color: #dc2f02;
 }
 
 /* venue */
@@ -263,7 +263,7 @@ h3{
 }
 
 .btn-newsletter{
-    background-color: #482ff7;
+    background-color: #dc2f02;
     padding: 10px;
     margin: 30px 10px;
     border: none;
@@ -289,7 +289,7 @@ h3{
 }
 
 .link:hover{
-    color: #a497f8;
+    color: #dc2f02;
 }
 
 .contact{
